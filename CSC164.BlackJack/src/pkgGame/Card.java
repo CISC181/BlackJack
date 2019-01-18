@@ -6,6 +6,7 @@ public class Card {
 
 	private eCardSuit eCardSuit;
 	private eCardRank eCardRank;
+	//this is a change
 
 	public Card(pkgEnum.eCardSuit eCardSuit, pkgEnum.eCardRank eCardRank) {
 		super();
